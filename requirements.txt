@@ -1,0 +1,4 @@
+tkinter
+messagebox
+requests
+whois
